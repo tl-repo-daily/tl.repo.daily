@@ -14,8 +14,6 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 | Date | Repository | What it is | Post |
 |---|---|---|---|
-| Nov 15 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Spatial sensing from Wi-Fi signals — presence and motion, no cameras | _scheduled_ |
-| Nov 14 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Local agent bots (Claude Code, Codex, OpenCode…) wired to your own machine | _scheduled_ |
 | Nov 13 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Connects AI models to Home Assistant — ask your smart home questions in plain language | [Instagram](https://www.instagram.com/p/DfsBO9eDj6q/) |
 | Nov 12 | [meta/astryx](https://github.com/meta/astryx) | Meta's design system, so generated pages stay one consistent product | [Instagram](https://www.instagram.com/p/DfqAEUMjk9Z/) |
 | Nov 12 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Starter templates so day one of a Claude app isn't spent wiring the same pieces | [Instagram](https://www.instagram.com/p/Dfp_yupDiIt/) |
