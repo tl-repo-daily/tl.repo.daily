@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/mascot.png" alt="tl.repo.daily mascot" width="180"></p>
+
 # tl.repo.daily — 1 GitHub repo a day 🚀
 
 Every day, one open-source project worth your time: **AI agents, dev tools, self-hosted, ML & systems.**
