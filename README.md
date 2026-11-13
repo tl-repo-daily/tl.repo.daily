@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/badge-full.jpg" alt="tl.repo.daily — Daily Highlights" width="420"></p>
+<p align="center"><img src="assets/banner.png" alt="tl.repo.daily — Daily Highlights"></p>
 
 # tl.repo.daily — 1 GitHub repo a day 🚀
 
