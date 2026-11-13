@@ -8,6 +8,10 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 **Save the ones you'll actually use.** ⭐
 
+### 🔥 Latest 7
+
+[![ha-mcp](https://img.shields.io/static/v1?label=&message=ha-mcp&color=191E23&logo=github&style=for-the-badge)](https://github.com/homeassistant-ai/ha-mcp) [![astryx](https://img.shields.io/static/v1?label=&message=astryx&color=191E23&logo=github&style=for-the-badge)](https://github.com/meta/astryx) [![claude-quickstarts](https://img.shields.io/static/v1?label=&message=claude-quickstarts&color=191E23&logo=github&style=for-the-badge)](https://github.com/anthropics/claude-quickstarts) [![gbrain](https://img.shields.io/static/v1?label=&message=gbrain&color=191E23&logo=github&style=for-the-badge)](https://github.com/garrytan/gbrain) [![agent-browser](https://img.shields.io/static/v1?label=&message=agent-browser&color=191E23&logo=github&style=for-the-badge)](https://github.com/vercel-labs/agent-browser) [![hugo](https://img.shields.io/static/v1?label=&message=hugo&color=191E23&logo=github&style=for-the-badge)](https://github.com/gohugoio/hugo) [![miniflux](https://img.shields.io/static/v1?label=&message=miniflux&color=191E23&logo=github&style=for-the-badge)](https://github.com/miniflux/v2)
+
 ---
 
 ## November 2026
