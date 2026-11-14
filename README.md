@@ -10,7 +10,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ### 🔥 Latest 7
 
-[![ha-mcp](https://img.shields.io/static/v1?label=&message=ha-mcp&color=191E23&logo=github&style=for-the-badge)](https://github.com/homeassistant-ai/ha-mcp) [![astryx](https://img.shields.io/static/v1?label=&message=astryx&color=191E23&logo=github&style=for-the-badge)](https://github.com/meta/astryx) [![claude-quickstarts](https://img.shields.io/static/v1?label=&message=claude-quickstarts&color=191E23&logo=github&style=for-the-badge)](https://github.com/anthropics/claude-quickstarts) [![gbrain](https://img.shields.io/static/v1?label=&message=gbrain&color=191E23&logo=github&style=for-the-badge)](https://github.com/garrytan/gbrain) [![agent-browser](https://img.shields.io/static/v1?label=&message=agent-browser&color=191E23&logo=github&style=for-the-badge)](https://github.com/vercel-labs/agent-browser) [![hugo](https://img.shields.io/static/v1?label=&message=hugo&color=191E23&logo=github&style=for-the-badge)](https://github.com/gohugoio/hugo) [![miniflux](https://img.shields.io/static/v1?label=&message=miniflux&color=191E23&logo=github&style=for-the-badge)](https://github.com/miniflux/v2)
+[![OpenMausBot](https://img.shields.io/static/v1?label=&message=OpenMausBot&color=191E23&logo=github&style=for-the-badge)](https://github.com/milind-soni/OpenMausBot) [![ha-mcp](https://img.shields.io/static/v1?label=&message=ha-mcp&color=191E23&logo=github&style=for-the-badge)](https://github.com/homeassistant-ai/ha-mcp) [![astryx](https://img.shields.io/static/v1?label=&message=astryx&color=191E23&logo=github&style=for-the-badge)](https://github.com/meta/astryx) [![claude-quickstarts](https://img.shields.io/static/v1?label=&message=claude-quickstarts&color=191E23&logo=github&style=for-the-badge)](https://github.com/anthropics/claude-quickstarts) [![gbrain](https://img.shields.io/static/v1?label=&message=gbrain&color=191E23&logo=github&style=for-the-badge)](https://github.com/garrytan/gbrain) [![agent-browser](https://img.shields.io/static/v1?label=&message=agent-browser&color=191E23&logo=github&style=for-the-badge)](https://github.com/vercel-labs/agent-browser) [![hugo](https://img.shields.io/static/v1?label=&message=hugo&color=191E23&logo=github&style=for-the-badge)](https://github.com/gohugoio/hugo)
 
 ---
 
@@ -18,6 +18,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 | Date | Repository | What it is | Post |
 |---|---|---|---|
+| Nov 14 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Local agent bots (Claude Code, Codex, OpenCode…) wired to your own machine | [Instagram](https://www.instagram.com/p/Dfuy6Ttjva2/) |
 | Nov 13 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Connects AI models to Home Assistant — ask your smart home questions in plain language | [Instagram](https://www.instagram.com/p/DfsBO9eDj6q/) |
 | Nov 12 | [meta/astryx](https://github.com/meta/astryx) | Meta's design system, so generated pages stay one consistent product | [Instagram](https://www.instagram.com/p/DfqAEUMjk9Z/) |
 | Nov 12 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Starter templates so day one of a Claude app isn't spent wiring the same pieces | [Instagram](https://www.instagram.com/p/Dfp_yupDiIt/) |
@@ -45,4 +46,4 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ---
 
-*21 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
+*22 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
