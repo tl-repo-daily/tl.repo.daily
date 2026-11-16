@@ -10,7 +10,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ### 🔥 Latest 7
 
-[![RuView](https://img.shields.io/static/v1?label=&message=RuView&color=191E23&logo=github&style=for-the-badge)](https://github.com/ruvnet/RuView) [![OpenMausBot](https://img.shields.io/static/v1?label=&message=OpenMausBot&color=191E23&logo=github&style=for-the-badge)](https://github.com/milind-soni/OpenMausBot) [![ha-mcp](https://img.shields.io/static/v1?label=&message=ha-mcp&color=191E23&logo=github&style=for-the-badge)](https://github.com/homeassistant-ai/ha-mcp) [![astryx](https://img.shields.io/static/v1?label=&message=astryx&color=191E23&logo=github&style=for-the-badge)](https://github.com/meta/astryx) [![claude-quickstarts](https://img.shields.io/static/v1?label=&message=claude-quickstarts&color=191E23&logo=github&style=for-the-badge)](https://github.com/anthropics/claude-quickstarts) [![gbrain](https://img.shields.io/static/v1?label=&message=gbrain&color=191E23&logo=github&style=for-the-badge)](https://github.com/garrytan/gbrain) [![agent-browser](https://img.shields.io/static/v1?label=&message=agent-browser&color=191E23&logo=github&style=for-the-badge)](https://github.com/vercel-labs/agent-browser)
+[![delta](https://img.shields.io/static/v1?label=&message=delta&color=191E23&logo=github&style=for-the-badge)](https://github.com/dandavison/delta) [![RuView](https://img.shields.io/static/v1?label=&message=RuView&color=191E23&logo=github&style=for-the-badge)](https://github.com/ruvnet/RuView) [![OpenMausBot](https://img.shields.io/static/v1?label=&message=OpenMausBot&color=191E23&logo=github&style=for-the-badge)](https://github.com/milind-soni/OpenMausBot) [![ha-mcp](https://img.shields.io/static/v1?label=&message=ha-mcp&color=191E23&logo=github&style=for-the-badge)](https://github.com/homeassistant-ai/ha-mcp) [![astryx](https://img.shields.io/static/v1?label=&message=astryx&color=191E23&logo=github&style=for-the-badge)](https://github.com/meta/astryx) [![claude-quickstarts](https://img.shields.io/static/v1?label=&message=claude-quickstarts&color=191E23&logo=github&style=for-the-badge)](https://github.com/anthropics/claude-quickstarts) [![gbrain](https://img.shields.io/static/v1?label=&message=gbrain&color=191E23&logo=github&style=for-the-badge)](https://github.com/garrytan/gbrain)
 
 ---
 
@@ -18,6 +18,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 | Date | Repository | What it is | Post |
 |---|---|---|---|
+| Nov 16 | [dandavison/delta](https://github.com/dandavison/delta) | A git diff pager that shows the change, not the noise | [Instagram](https://www.instagram.com/p/Df0DR9YjCuW/) |
 | Nov 15 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Spatial sensing from Wi-Fi signals — presence and motion, no cameras | [Instagram](https://www.instagram.com/p/DfxJLLrDMTs/) |
 | Nov 14 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Local agent bots (Claude Code, Codex, OpenCode…) wired to your own machine | [Instagram](https://www.instagram.com/p/Dfuy6Ttjva2/) |
 | Nov 13 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Connects AI models to Home Assistant — ask your smart home questions in plain language | [Instagram](https://www.instagram.com/p/DfsBO9eDj6q/) |
@@ -47,4 +48,4 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ---
 
-*23 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
+*24 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
