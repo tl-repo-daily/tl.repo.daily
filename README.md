@@ -10,7 +10,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ### 🔥 Latest 7
 
-[![delta](https://img.shields.io/static/v1?label=&message=delta&color=191E23&logo=github&style=for-the-badge)](https://github.com/dandavison/delta) [![RuView](https://img.shields.io/static/v1?label=&message=RuView&color=191E23&logo=github&style=for-the-badge)](https://github.com/ruvnet/RuView) [![OpenMausBot](https://img.shields.io/static/v1?label=&message=OpenMausBot&color=191E23&logo=github&style=for-the-badge)](https://github.com/milind-soni/OpenMausBot) [![ha-mcp](https://img.shields.io/static/v1?label=&message=ha-mcp&color=191E23&logo=github&style=for-the-badge)](https://github.com/homeassistant-ai/ha-mcp) [![astryx](https://img.shields.io/static/v1?label=&message=astryx&color=191E23&logo=github&style=for-the-badge)](https://github.com/meta/astryx) [![claude-quickstarts](https://img.shields.io/static/v1?label=&message=claude-quickstarts&color=191E23&logo=github&style=for-the-badge)](https://github.com/anthropics/claude-quickstarts) [![gbrain](https://img.shields.io/static/v1?label=&message=gbrain&color=191E23&logo=github&style=for-the-badge)](https://github.com/garrytan/gbrain)
+[![diffsitter](https://img.shields.io/static/v1?label=&message=diffsitter&color=191E23&logo=github&style=for-the-badge)](https://github.com/afnanenayet/diffsitter) [![delta](https://img.shields.io/static/v1?label=&message=delta&color=191E23&logo=github&style=for-the-badge)](https://github.com/dandavison/delta) [![RuView](https://img.shields.io/static/v1?label=&message=RuView&color=191E23&logo=github&style=for-the-badge)](https://github.com/ruvnet/RuView) [![OpenMausBot](https://img.shields.io/static/v1?label=&message=OpenMausBot&color=191E23&logo=github&style=for-the-badge)](https://github.com/milind-soni/OpenMausBot) [![ha-mcp](https://img.shields.io/static/v1?label=&message=ha-mcp&color=191E23&logo=github&style=for-the-badge)](https://github.com/homeassistant-ai/ha-mcp) [![astryx](https://img.shields.io/static/v1?label=&message=astryx&color=191E23&logo=github&style=for-the-badge)](https://github.com/meta/astryx) [![claude-quickstarts](https://img.shields.io/static/v1?label=&message=claude-quickstarts&color=191E23&logo=github&style=for-the-badge)](https://github.com/anthropics/claude-quickstarts)
 
 ---
 
@@ -18,6 +18,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 | Date | Repository | What it is | Post |
 |---|---|---|---|
+| Nov 17 | [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) | A syntax-tree diff that shows the logic, not the layout | [Instagram](https://www.instagram.com/p/Df2cBo1CY_6/) |
 | Nov 16 | [dandavison/delta](https://github.com/dandavison/delta) | A git diff pager that shows the change, not the noise | [Instagram](https://www.instagram.com/p/Df0DR9YjCuW/) |
 | Nov 15 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Spatial sensing from Wi-Fi signals — presence and motion, no cameras | [Instagram](https://www.instagram.com/p/DfxJLLrDMTs/) |
 | Nov 14 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Local agent bots (Claude Code, Codex, OpenCode…) wired to your own machine | [Instagram](https://www.instagram.com/p/Dfuy6Ttjva2/) |
@@ -48,4 +49,4 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ---
 
-*24 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
+*25 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
