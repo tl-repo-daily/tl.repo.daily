@@ -10,7 +10,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ### 🔥 Latest 7
 
-[![diffsitter](https://img.shields.io/static/v1?label=&message=diffsitter&color=191E23&logo=github&style=for-the-badge)](https://github.com/afnanenayet/diffsitter) [![delta](https://img.shields.io/static/v1?label=&message=delta&color=191E23&logo=github&style=for-the-badge)](https://github.com/dandavison/delta) [![RuView](https://img.shields.io/static/v1?label=&message=RuView&color=191E23&logo=github&style=for-the-badge)](https://github.com/ruvnet/RuView) [![OpenMausBot](https://img.shields.io/static/v1?label=&message=OpenMausBot&color=191E23&logo=github&style=for-the-badge)](https://github.com/milind-soni/OpenMausBot) [![ha-mcp](https://img.shields.io/static/v1?label=&message=ha-mcp&color=191E23&logo=github&style=for-the-badge)](https://github.com/homeassistant-ai/ha-mcp) [![astryx](https://img.shields.io/static/v1?label=&message=astryx&color=191E23&logo=github&style=for-the-badge)](https://github.com/meta/astryx) [![claude-quickstarts](https://img.shields.io/static/v1?label=&message=claude-quickstarts&color=191E23&logo=github&style=for-the-badge)](https://github.com/anthropics/claude-quickstarts)
+[![pr-lens](https://img.shields.io/static/v1?label=&message=pr-lens&color=191E23&logo=github&style=for-the-badge)](https://github.com/coldteadotai/pr-lens) [![diffsitter](https://img.shields.io/static/v1?label=&message=diffsitter&color=191E23&logo=github&style=for-the-badge)](https://github.com/afnanenayet/diffsitter) [![delta](https://img.shields.io/static/v1?label=&message=delta&color=191E23&logo=github&style=for-the-badge)](https://github.com/dandavison/delta) [![RuView](https://img.shields.io/static/v1?label=&message=RuView&color=191E23&logo=github&style=for-the-badge)](https://github.com/ruvnet/RuView) [![OpenMausBot](https://img.shields.io/static/v1?label=&message=OpenMausBot&color=191E23&logo=github&style=for-the-badge)](https://github.com/milind-soni/OpenMausBot) [![ha-mcp](https://img.shields.io/static/v1?label=&message=ha-mcp&color=191E23&logo=github&style=for-the-badge)](https://github.com/homeassistant-ai/ha-mcp) [![astryx](https://img.shields.io/static/v1?label=&message=astryx&color=191E23&logo=github&style=for-the-badge)](https://github.com/meta/astryx)
 
 ---
 
@@ -18,6 +18,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 | Date | Repository | What it is | Post |
 |---|---|---|---|
+| Nov 18 | [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) | A map of your pull request — the modules it reaches, and what runs between them | [Instagram](https://www.instagram.com/p/Df5Ux8gAs6H/) |
 | Nov 17 | [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) | A syntax-tree diff that shows the logic, not the layout | [Instagram](https://www.instagram.com/p/Df2cBo1CY_6/) |
 | Nov 16 | [dandavison/delta](https://github.com/dandavison/delta) | A git diff pager that shows the change, not the noise | [Instagram](https://www.instagram.com/p/Df0DR9YjCuW/) |
 | Nov 15 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Spatial sensing from Wi-Fi signals — presence and motion, no cameras | [Instagram](https://www.instagram.com/p/DfxJLLrDMTs/) |
@@ -49,4 +50,4 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ---
 
-*25 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
+*26 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
