@@ -10,7 +10,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ### 🔥 Latest 7
 
-[![betterleaks](https://img.shields.io/static/v1?label=&message=betterleaks&color=191E23&logo=github&style=for-the-badge)](https://github.com/betterleaks/betterleaks) [![herdr-reviewr](https://img.shields.io/static/v1?label=&message=herdr-reviewr&color=191E23&logo=github&style=for-the-badge)](https://github.com/persiyanov/herdr-reviewr) [![pr-lens](https://img.shields.io/static/v1?label=&message=pr-lens&color=191E23&logo=github&style=for-the-badge)](https://github.com/coldteadotai/pr-lens) [![diffsitter](https://img.shields.io/static/v1?label=&message=diffsitter&color=191E23&logo=github&style=for-the-badge)](https://github.com/afnanenayet/diffsitter) [![delta](https://img.shields.io/static/v1?label=&message=delta&color=191E23&logo=github&style=for-the-badge)](https://github.com/dandavison/delta) [![RuView](https://img.shields.io/static/v1?label=&message=RuView&color=191E23&logo=github&style=for-the-badge)](https://github.com/ruvnet/RuView) [![OpenMausBot](https://img.shields.io/static/v1?label=&message=OpenMausBot&color=191E23&logo=github&style=for-the-badge)](https://github.com/milind-soni/OpenMausBot)
+[![webclaw](https://img.shields.io/static/v1?label=&message=webclaw&color=191E23&logo=github&style=for-the-badge)](https://github.com/0xMassi/webclaw) [![betterleaks](https://img.shields.io/static/v1?label=&message=betterleaks&color=191E23&logo=github&style=for-the-badge)](https://github.com/betterleaks/betterleaks) [![herdr-reviewr](https://img.shields.io/static/v1?label=&message=herdr-reviewr&color=191E23&logo=github&style=for-the-badge)](https://github.com/persiyanov/herdr-reviewr) [![pr-lens](https://img.shields.io/static/v1?label=&message=pr-lens&color=191E23&logo=github&style=for-the-badge)](https://github.com/coldteadotai/pr-lens) [![diffsitter](https://img.shields.io/static/v1?label=&message=diffsitter&color=191E23&logo=github&style=for-the-badge)](https://github.com/afnanenayet/diffsitter) [![delta](https://img.shields.io/static/v1?label=&message=delta&color=191E23&logo=github&style=for-the-badge)](https://github.com/dandavison/delta) [![RuView](https://img.shields.io/static/v1?label=&message=RuView&color=191E23&logo=github&style=for-the-badge)](https://github.com/ruvnet/RuView)
 
 ---
 
@@ -18,6 +18,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 | Date | Repository | What it is | Post |
 |---|---|---|---|
+| Nov 21 | [0xMassi/webclaw](https://github.com/0xMassi/webclaw) | A fast local-first web content extractor for LLMs — turns pages into clean Markdown or JSON (CLI, REST API, MCP server) | [Instagram](https://instagram.com/stories/tl.repo.daily/4035631790223706520) |
 | Nov 20 | [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) | A secrets scanner that checks if leaked credentials are still live — and can revoke them | [Instagram](https://instagram.com/stories/tl.repo.daily/4034926717403284979) |
 | Nov 20 | [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr) | Review your agent's diff in a real terminal pane — comments flow straight back to it | [Instagram](https://instagram.com/stories/tl.repo.daily/4034579228527645253) |
 | Nov 18 | [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) | A map of your pull request — the modules it reaches, and what runs between them | [Instagram](https://www.instagram.com/p/Df5Ux8gAs6H/) |
@@ -52,4 +53,4 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ---
 
-*28 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
+*29 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
