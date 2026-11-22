@@ -10,7 +10,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ### 🔥 Latest 7
 
-[![webclaw](https://img.shields.io/static/v1?label=&message=webclaw&color=191E23&logo=github&style=for-the-badge)](https://github.com/0xMassi/webclaw) [![betterleaks](https://img.shields.io/static/v1?label=&message=betterleaks&color=191E23&logo=github&style=for-the-badge)](https://github.com/betterleaks/betterleaks) [![herdr-reviewr](https://img.shields.io/static/v1?label=&message=herdr-reviewr&color=191E23&logo=github&style=for-the-badge)](https://github.com/persiyanov/herdr-reviewr) [![pr-lens](https://img.shields.io/static/v1?label=&message=pr-lens&color=191E23&logo=github&style=for-the-badge)](https://github.com/coldteadotai/pr-lens) [![diffsitter](https://img.shields.io/static/v1?label=&message=diffsitter&color=191E23&logo=github&style=for-the-badge)](https://github.com/afnanenayet/diffsitter) [![delta](https://img.shields.io/static/v1?label=&message=delta&color=191E23&logo=github&style=for-the-badge)](https://github.com/dandavison/delta) [![RuView](https://img.shields.io/static/v1?label=&message=RuView&color=191E23&logo=github&style=for-the-badge)](https://github.com/ruvnet/RuView)
+[![twscrape](https://img.shields.io/static/v1?label=&message=twscrape&color=191E23&logo=github&style=for-the-badge)](https://github.com/vladkens/twscrape) [![webclaw](https://img.shields.io/static/v1?label=&message=webclaw&color=191E23&logo=github&style=for-the-badge)](https://github.com/0xMassi/webclaw) [![betterleaks](https://img.shields.io/static/v1?label=&message=betterleaks&color=191E23&logo=github&style=for-the-badge)](https://github.com/betterleaks/betterleaks) [![herdr-reviewr](https://img.shields.io/static/v1?label=&message=herdr-reviewr&color=191E23&logo=github&style=for-the-badge)](https://github.com/persiyanov/herdr-reviewr) [![pr-lens](https://img.shields.io/static/v1?label=&message=pr-lens&color=191E23&logo=github&style=for-the-badge)](https://github.com/coldteadotai/pr-lens) [![diffsitter](https://img.shields.io/static/v1?label=&message=diffsitter&color=191E23&logo=github&style=for-the-badge)](https://github.com/afnanenayet/diffsitter) [![delta](https://img.shields.io/static/v1?label=&message=delta&color=191E23&logo=github&style=for-the-badge)](https://github.com/dandavison/delta)
 
 ---
 
@@ -18,6 +18,7 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 | Date | Repository | What it is | Post |
 |---|---|---|---|
+| Nov 22 | [vladkens/twscrape](https://github.com/vladkens/twscrape) | A Python library and CLI for scraping X/Twitter — multi-account rotation and built-in rate-limit handling, no official API needed | [Instagram](https://instagram.com/stories/tl.repo.daily/4036113895596653656) |
 | Nov 21 | [0xMassi/webclaw](https://github.com/0xMassi/webclaw) | A fast local-first web content extractor for LLMs — turns pages into clean Markdown or JSON (CLI, REST API, MCP server) | [Instagram](https://instagram.com/stories/tl.repo.daily/4035631790223706520) |
 | Nov 20 | [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) | A secrets scanner that checks if leaked credentials are still live — and can revoke them | [Instagram](https://instagram.com/stories/tl.repo.daily/4034926717403284979) |
 | Nov 20 | [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr) | Review your agent's diff in a real terminal pane — comments flow straight back to it | [Instagram](https://instagram.com/stories/tl.repo.daily/4034579228527645253) |
@@ -53,4 +54,4 @@ This repo is the full archive — every project featured, with its GitHub link a
 
 ---
 
-*29 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
+*30 projects featured so far. A new one lands every day on [@tl.repo.daily](https://www.instagram.com/tl.repo.daily) and gets added here.*
